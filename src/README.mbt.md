@@ -1,5 +1,9 @@
 # gaato/zstd
 
+> **Moved to [gaato/codecs.mbt](https://github.com/gaato/codecs.mbt/tree/main/zstd).**
+> This repository is archived. The module keeps its name, `gaato/zstd`, and
+> new versions are published from there.
+
 A streaming Zstandard (RFC 8878) decoder in pure MoonBit. Native, JS, Wasm and Wasm GC.
 
 ```fish
